@@ -1,0 +1,13 @@
+*.air.toml
+air
+.vscode
+.idea
+vendor/
+tmp
+*.o
+*.a
+*.so
+*.test
+*.prof
+*.out
+*.env
